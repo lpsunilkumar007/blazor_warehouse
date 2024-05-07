@@ -1,0 +1,9 @@
+src/Client/obj
+src/Client.Infrastructure/obj
+src/Shared/obj
+.vs
+src/Domain/obj/
+src/Server/obj/
+src/Infrastructure/obj/
+src/Application/obj/
+src/Infrastructure.Shared/obj
